@@ -7,8 +7,8 @@ body {
 }
 
 hr {
-    border-top: dotted 10px;
-    width: 5%;
+    border-top: dotted 6px;
+    width: 3%;
     color: #184d47;
 }
 
@@ -42,6 +42,10 @@ h3 {
     padding-bottom: 50px;
 }
 
+.profile img{
+    width: 15%;
+}
+
 
 .topcontainer {
     background-color: #96bb7c;
@@ -50,11 +54,11 @@ h3 {
 }
 
 .middlecontainer {
-
-
+    padding: 100px;
 }
 .bottomcontainer {
     background-color: #184d47;
+    padding: 40px;
 }
 
 .cloud1 {
@@ -93,14 +97,15 @@ h3 {
 }
 
 .btn {
+    margin-top: 40px;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
     color: #FFFFFF;
-    font-family: Verdana;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
-    font-weight: 100;
-    padding: 20px;
+    font-weight: bold;
+    padding: 10px;
     background-color: #184D47;
     -webkit-box-shadow: 1px 1px 20px 0 #000000;
     -moz-box-shadow: 1px 1px 20px 0 #000000;
@@ -123,6 +128,13 @@ h3 {
     background-image: -webkit-gradient(to bottom, #184D47, #96BB7C);
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
     text-decoration: none;
  }
+
+ .footer-link {
+     margin: 10px;
+     color: #96bb7c;
+     width: 5%;
+ }
+
