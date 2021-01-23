@@ -74,9 +74,9 @@ h3 {
     color: #96bb7c;
 }
 
-/* .mountain {
-    width: 100%;
-} */
+.mountain {
+    width: 40%;
+}
 
 .cloud1 {
     position: absolute;
