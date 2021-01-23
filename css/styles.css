@@ -62,6 +62,7 @@ h3 {
     background-color: #96bb7c;
     position: relative;
     padding-top: 5%;
+    width: 100%;
 }
 
 .middlecontainer {
@@ -73,9 +74,9 @@ h3 {
     color: #96bb7c;
 }
 
-.mountain {
+/* .mountain {
     width: 100%;
-}
+} */
 
 .cloud1 {
     position: absolute;
